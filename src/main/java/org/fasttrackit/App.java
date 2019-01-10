@@ -6,7 +6,7 @@ public class App {
 //            Engine engine = new Engine();
 //            engine.manufacturer = "Renault";
 //            engine.capacity = 1500;
-             engine.expiryDate = LocalDateTime.now();
+ //            engine.expiryDate = LocalDateTime.now();
 //
 //
 //            Car car = new Car(engine);
