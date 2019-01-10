@@ -1,15 +1,6 @@
 package org.fasttrackit;
 
-/**
- * Hello world!
- *fdsafdas
- * fdsa
- * fdsa
- * fdsa
- * fdsa
- */
 
-// this is a comment
 public class App 
 {
     public static void main( String[] args )
