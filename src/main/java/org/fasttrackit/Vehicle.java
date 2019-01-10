@@ -28,6 +28,12 @@ public class Vehicle {
      {
          return accelerate( speed , 1);
     }
+    public Vehicle clone(){
+        Vehicle vehicle = new Vehicle();
+        //copy properties from current object
+        return vehicle ;
+
+    }
 
     public String getName() {
         return name;

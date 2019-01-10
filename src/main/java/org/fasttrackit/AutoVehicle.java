@@ -9,8 +9,14 @@ public class AutoVehicle extends Vehicle
         this.engine = engine;
     }
 
+  //  @Override
+   // public String toString() {
+      //  return super.toString();
+    // }
+
     public AutoVehicle() {
         //this.engine = new Engine();
     this(new Engine());
+
     }
 }
